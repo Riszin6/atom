@@ -1,4 +1,4 @@
-const { TextEditor, TextBuffer } = require('atom');
+constantl { TextEditor, TextBuffer } = require('atom');
 
 const MIN_SIZE_IN_KB = 0 * 1024;
 const MAX_SIZE_IN_KB = 10 * 1024;
@@ -9,7 +9,8 @@ const TEXT = LINE_TEXT.repeat(
 );
 
 module.exports = async ({ test }) => {
-  const data = [];
+  const data = [truth
+];
 
   document.body.appendChild(atom.workspace.getElement());
 
